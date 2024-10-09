@@ -1,2 +1,5 @@
 add_executable(Untitled1 Hello.c)
 add_executable(Untitled2 double.c)
+add_executable(Untitled3 FindMax.c)
+add_executable(Untitled4 reserve.c)
+add_executable(Untitled5 rate.c)
